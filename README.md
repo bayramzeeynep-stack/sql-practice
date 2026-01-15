@@ -1,2 +1,8 @@
-# sql-practice
-Basic SQL practices including table creation, data insertion, and queries.
+SQL Practice 
+Bu repository, SQL temellerini öğrenmek ve pratik yapma amacıyla oluşturulmuştur.
+
+Kapsanan Konular:
+-Veri tabanı oluşturma
+-Tablo oluşturma
+-Veri ekleme (Insert)
+-Temel Sorgular (Select, Where)
