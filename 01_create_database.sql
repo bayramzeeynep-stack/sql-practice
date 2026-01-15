@@ -1,4 +1,4 @@
 --Create database
-CREATE DATABASE practice_db;
+CREATE DATABASE Library_db;
 --Use database
-USE practice_db
+USE Library_db
